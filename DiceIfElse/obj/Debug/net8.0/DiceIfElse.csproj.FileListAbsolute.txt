@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Desktop\.NET\DiceIfElse\bin\Debug\net8.0\DiceIfElse.exe
+C:\Users\Administrator\OneDrive\Desktop\.NET\DiceIfElse\bin\Debug\net8.0\DiceIfElse.deps.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\DiceIfElse\bin\Debug\net8.0\DiceIfElse.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\DiceIfElse\bin\Debug\net8.0\DiceIfElse.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\DiceIfElse\bin\Debug\net8.0\DiceIfElse.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\DiceIfElse\obj\Debug\net8.0\DiceIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\.NET\DiceIfElse\obj\Debug\net8.0\DiceIfElse.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\DiceIfElse\obj\Debug\net8.0\DiceIfElse.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\.NET\DiceIfElse\obj\Debug\net8.0\DiceIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\DiceIfElse\obj\Debug\net8.0\DiceIfElse.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\DiceIfElse\obj\Debug\net8.0\refint\DiceIfElse.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\DiceIfElse\obj\Debug\net8.0\DiceIfElse.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\DiceIfElse\obj\Debug\net8.0\DiceIfElse.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\DiceIfElse\obj\Debug\net8.0\ref\DiceIfElse.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Desktop\.NET\MergingTwoLists\bin\Debug\net8.0\MergingTwoLists.exe
+C:\Users\Administrator\OneDrive\Desktop\.NET\MergingTwoLists\bin\Debug\net8.0\MergingTwoLists.deps.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\MergingTwoLists\bin\Debug\net8.0\MergingTwoLists.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\MergingTwoLists\bin\Debug\net8.0\MergingTwoLists.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\MergingTwoLists\bin\Debug\net8.0\MergingTwoLists.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\MergingTwoLists\obj\Debug\net8.0\MergingTwoLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\.NET\MergingTwoLists\obj\Debug\net8.0\MergingTwoLists.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\MergingTwoLists\obj\Debug\net8.0\MergingTwoLists.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\.NET\MergingTwoLists\obj\Debug\net8.0\MergingTwoLists.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\MergingTwoLists\obj\Debug\net8.0\MergingTwoLists.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\MergingTwoLists\obj\Debug\net8.0\refint\MergingTwoLists.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\MergingTwoLists\obj\Debug\net8.0\MergingTwoLists.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\MergingTwoLists\obj\Debug\net8.0\MergingTwoLists.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\MergingTwoLists\obj\Debug\net8.0\ref\MergingTwoLists.dll

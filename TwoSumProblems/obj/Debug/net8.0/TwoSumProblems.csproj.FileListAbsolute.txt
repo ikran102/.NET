@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Desktop\.NET\TwoSumProblems\bin\Debug\net8.0\TwoSumProblems.exe
+C:\Users\Administrator\OneDrive\Desktop\.NET\TwoSumProblems\bin\Debug\net8.0\TwoSumProblems.deps.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\TwoSumProblems\bin\Debug\net8.0\TwoSumProblems.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\TwoSumProblems\bin\Debug\net8.0\TwoSumProblems.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\TwoSumProblems\bin\Debug\net8.0\TwoSumProblems.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\TwoSumProblems\obj\Debug\net8.0\TwoSumProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\.NET\TwoSumProblems\obj\Debug\net8.0\TwoSumProblems.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\TwoSumProblems\obj\Debug\net8.0\TwoSumProblems.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\.NET\TwoSumProblems\obj\Debug\net8.0\TwoSumProblems.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\TwoSumProblems\obj\Debug\net8.0\TwoSumProblems.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\TwoSumProblems\obj\Debug\net8.0\refint\TwoSumProblems.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\TwoSumProblems\obj\Debug\net8.0\TwoSumProblems.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\TwoSumProblems\obj\Debug\net8.0\TwoSumProblems.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\TwoSumProblems\obj\Debug\net8.0\ref\TwoSumProblems.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Desktop\.NET\StringChallenge\bin\Debug\net8.0\StringChallenge.exe
+C:\Users\Administrator\OneDrive\Desktop\.NET\StringChallenge\bin\Debug\net8.0\StringChallenge.deps.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\StringChallenge\bin\Debug\net8.0\StringChallenge.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\StringChallenge\bin\Debug\net8.0\StringChallenge.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\StringChallenge\bin\Debug\net8.0\StringChallenge.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\StringChallenge\obj\Debug\net8.0\StringChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\.NET\StringChallenge\obj\Debug\net8.0\StringChallenge.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\StringChallenge\obj\Debug\net8.0\StringChallenge.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\.NET\StringChallenge\obj\Debug\net8.0\StringChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\StringChallenge\obj\Debug\net8.0\StringChallenge.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\StringChallenge\obj\Debug\net8.0\refint\StringChallenge.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\StringChallenge\obj\Debug\net8.0\StringChallenge.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\StringChallenge\obj\Debug\net8.0\StringChallenge.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\StringChallenge\obj\Debug\net8.0\ref\StringChallenge.dll

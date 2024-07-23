@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayChallenge\bin\Debug\net8.0\ArrayChallenge.exe
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayChallenge\bin\Debug\net8.0\ArrayChallenge.deps.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayChallenge\bin\Debug\net8.0\ArrayChallenge.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayChallenge\bin\Debug\net8.0\ArrayChallenge.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayChallenge\bin\Debug\net8.0\ArrayChallenge.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayChallenge\obj\Debug\net8.0\ArrayChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayChallenge\obj\Debug\net8.0\ArrayChallenge.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayChallenge\obj\Debug\net8.0\ArrayChallenge.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayChallenge\obj\Debug\net8.0\ArrayChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayChallenge\obj\Debug\net8.0\ArrayChallenge.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayChallenge\obj\Debug\net8.0\refint\ArrayChallenge.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayChallenge\obj\Debug\net8.0\ArrayChallenge.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayChallenge\obj\Debug\net8.0\ArrayChallenge.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayChallenge\obj\Debug\net8.0\ref\ArrayChallenge.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayReverseAndSort\bin\Debug\net8.0\ArrayReverseAndSort.exe
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayReverseAndSort\bin\Debug\net8.0\ArrayReverseAndSort.deps.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayReverseAndSort\bin\Debug\net8.0\ArrayReverseAndSort.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayReverseAndSort\bin\Debug\net8.0\ArrayReverseAndSort.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayReverseAndSort\bin\Debug\net8.0\ArrayReverseAndSort.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayReverseAndSort\obj\Debug\net8.0\ArrayReverseAndSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayReverseAndSort\obj\Debug\net8.0\ArrayReverseAndSort.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayReverseAndSort\obj\Debug\net8.0\ArrayReverseAndSort.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayReverseAndSort\obj\Debug\net8.0\ArrayReverseAndSort.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayReverseAndSort\obj\Debug\net8.0\ArrayReverseAndSort.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayReverseAndSort\obj\Debug\net8.0\refint\ArrayReverseAndSort.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayReverseAndSort\obj\Debug\net8.0\ArrayReverseAndSort.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayReverseAndSort\obj\Debug\net8.0\ArrayReverseAndSort.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayReverseAndSort\obj\Debug\net8.0\ref\ArrayReverseAndSort.dll

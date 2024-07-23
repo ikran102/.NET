@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Desktop\.NET\IncrementDecrementOrder\bin\Debug\net8.0\IncrementDecrementOrder.exe
+C:\Users\Administrator\OneDrive\Desktop\.NET\IncrementDecrementOrder\bin\Debug\net8.0\IncrementDecrementOrder.deps.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\IncrementDecrementOrder\bin\Debug\net8.0\IncrementDecrementOrder.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\IncrementDecrementOrder\bin\Debug\net8.0\IncrementDecrementOrder.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\IncrementDecrementOrder\bin\Debug\net8.0\IncrementDecrementOrder.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\IncrementDecrementOrder\obj\Debug\net8.0\IncrementDecrementOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\.NET\IncrementDecrementOrder\obj\Debug\net8.0\IncrementDecrementOrder.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\IncrementDecrementOrder\obj\Debug\net8.0\IncrementDecrementOrder.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\.NET\IncrementDecrementOrder\obj\Debug\net8.0\IncrementDecrementOrder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\IncrementDecrementOrder\obj\Debug\net8.0\IncrementDecrementOrder.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\IncrementDecrementOrder\obj\Debug\net8.0\refint\IncrementDecrementOrder.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\IncrementDecrementOrder\obj\Debug\net8.0\IncrementDecrementOrder.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\IncrementDecrementOrder\obj\Debug\net8.0\IncrementDecrementOrder.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\IncrementDecrementOrder\obj\Debug\net8.0\ref\IncrementDecrementOrder.dll

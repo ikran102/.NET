@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayClear\bin\Debug\net8.0\ArrayClear.exe
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayClear\bin\Debug\net8.0\ArrayClear.deps.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayClear\bin\Debug\net8.0\ArrayClear.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayClear\bin\Debug\net8.0\ArrayClear.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayClear\bin\Debug\net8.0\ArrayClear.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayClear\obj\Debug\net8.0\ArrayClear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayClear\obj\Debug\net8.0\ArrayClear.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayClear\obj\Debug\net8.0\ArrayClear.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayClear\obj\Debug\net8.0\ArrayClear.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayClear\obj\Debug\net8.0\ArrayClear.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayClear\obj\Debug\net8.0\refint\ArrayClear.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayClear\obj\Debug\net8.0\ArrayClear.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayClear\obj\Debug\net8.0\ArrayClear.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\ArrayClear\obj\Debug\net8.0\ref\ArrayClear.dll

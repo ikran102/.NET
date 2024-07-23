@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Desktop\.NET\SubscriptionReminder\bin\Debug\net8.0\SubscriptionReminder.exe
+C:\Users\Administrator\OneDrive\Desktop\.NET\SubscriptionReminder\bin\Debug\net8.0\SubscriptionReminder.deps.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\SubscriptionReminder\bin\Debug\net8.0\SubscriptionReminder.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\SubscriptionReminder\bin\Debug\net8.0\SubscriptionReminder.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\SubscriptionReminder\bin\Debug\net8.0\SubscriptionReminder.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\SubscriptionReminder\obj\Debug\net8.0\SubscriptionReminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\.NET\SubscriptionReminder\obj\Debug\net8.0\SubscriptionReminder.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\SubscriptionReminder\obj\Debug\net8.0\SubscriptionReminder.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\.NET\SubscriptionReminder\obj\Debug\net8.0\SubscriptionReminder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\SubscriptionReminder\obj\Debug\net8.0\SubscriptionReminder.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\SubscriptionReminder\obj\Debug\net8.0\refint\SubscriptionReminder.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\SubscriptionReminder\obj\Debug\net8.0\SubscriptionReminder.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\SubscriptionReminder\obj\Debug\net8.0\SubscriptionReminder.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\SubscriptionReminder\obj\Debug\net8.0\ref\SubscriptionReminder.dll

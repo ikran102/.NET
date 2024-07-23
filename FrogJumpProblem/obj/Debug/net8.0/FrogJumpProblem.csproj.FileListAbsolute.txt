@@ -1,0 +1,14 @@
+C:\Users\Administrator\OneDrive\Desktop\.NET\FrogJumpProblem\obj\Debug\net8.0\FrogJumpProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive\Desktop\.NET\FrogJumpProblem\obj\Debug\net8.0\FrogJumpProblem.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\FrogJumpProblem\obj\Debug\net8.0\FrogJumpProblem.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive\Desktop\.NET\FrogJumpProblem\obj\Debug\net8.0\FrogJumpProblem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\FrogJumpProblem\bin\Debug\net8.0\FrogJumpProblem.exe
+C:\Users\Administrator\OneDrive\Desktop\.NET\FrogJumpProblem\bin\Debug\net8.0\FrogJumpProblem.deps.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\FrogJumpProblem\bin\Debug\net8.0\FrogJumpProblem.runtimeconfig.json
+C:\Users\Administrator\OneDrive\Desktop\.NET\FrogJumpProblem\bin\Debug\net8.0\FrogJumpProblem.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\FrogJumpProblem\bin\Debug\net8.0\FrogJumpProblem.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\FrogJumpProblem\obj\Debug\net8.0\FrogJumpProblem.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\FrogJumpProblem\obj\Debug\net8.0\refint\FrogJumpProblem.dll
+C:\Users\Administrator\OneDrive\Desktop\.NET\FrogJumpProblem\obj\Debug\net8.0\FrogJumpProblem.pdb
+C:\Users\Administrator\OneDrive\Desktop\.NET\FrogJumpProblem\obj\Debug\net8.0\FrogJumpProblem.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive\Desktop\.NET\FrogJumpProblem\obj\Debug\net8.0\ref\FrogJumpProblem.dll
